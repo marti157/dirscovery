@@ -1,2 +1,2 @@
-# dirscovery
+# Dirscovery
 A Simple Directory Discoverer
