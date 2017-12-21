@@ -15,7 +15,7 @@ First, clone or download the repository to your local machine.
 Next, make sure you have these dependencies installed (**remember, this is Python 2!**):
 
 ```
-Requests Library
-
+requests Library
+termcolor Library
 ```
 You can install libraries using Pip (again, for Python 2).
