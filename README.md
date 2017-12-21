@@ -1,6 +1,7 @@
 ![Dirscovery](docs/dir-icon.png)
 
 Dirscovery is a simple directory discoverer that uses dictionaries to find folders or files on a website.
+
 Features:
 * Find hidden folders in web servers
 * Search by extension
@@ -12,8 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installing
 First, clone or download the repository to your local machine.
 Next, make sure you have these dependencies installed (**remember, this is Python 2!**):
-'''
+
+```
 Requests Library
 
-'''
+```
 You can install libraries using Pip (again, for Python 2).
