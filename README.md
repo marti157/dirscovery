@@ -19,8 +19,16 @@ requests Library
 termcolor Library
 ```
 You can install libraries using Pip (again, for Python 2).
+## Checking
+Now check if you have all dependencies installed and that the script works.
+Execute this in your console/terminal:
+```
+python dirscovery.py
+```
+Make sure to be in the same folder where the script is.
+If you get a "usage" message it means that it is up and working.
 
-## Running
+# Running
 Usage:
 ```
 python dirsovery.py [url] [wordlist] [extensions]
@@ -30,3 +38,5 @@ Example:
 python dirscovery.py http://example.com /home/wordlist/words.txt .html,.php
 ```
 You can use the "-h" option for more help.
+
+# Licence
