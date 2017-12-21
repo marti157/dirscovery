@@ -19,3 +19,14 @@ requests Library
 termcolor Library
 ```
 You can install libraries using Pip (again, for Python 2).
+
+## Running
+Usage:
+```
+python dirsovery.py [url] [wordlist] [extensions]
+```
+Example:
+```
+python dirscovery.py http://example.com /home/wordlist/words.txt .html,.php
+```
+You can use the "-h" option for more help.
