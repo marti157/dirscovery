@@ -39,5 +39,8 @@ python dirscovery.py http://example.com /home/wordlist/words.txt .html,.php
 ```
 You can use the "-h" option for more help.
 
-## Licence
+## License
 
+[GNU General Public License (General v3.0](LICENSE)
+
+Copyright (c) 2018 Marti157
