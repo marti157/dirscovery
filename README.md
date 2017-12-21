@@ -26,6 +26,7 @@ Execute this in your console/terminal:
 python dirscovery.py
 ```
 Make sure to be in the same folder where the script is.
+
 If you get a "usage" message it means that it is up and working.
 
 ## Running
